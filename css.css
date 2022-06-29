@@ -93,3 +93,9 @@ p{
     color:white;
     text-decoration: none;
 }
+#bordes{
+    border: solid 2px darkslategray;
+}
+#border{
+    border: solid 3px gray;
+}
