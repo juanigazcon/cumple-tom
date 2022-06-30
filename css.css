@@ -86,8 +86,11 @@ p{
 #none{
     color:grey;
     font-size: 90%;
-    font-weight: bold;
+    font-weight: bold;    
     text-decoration: none;
+}
+#hiperv{
+    text-decoration: underline whitesmoke;
 }
 #blanco{
     color:white;
@@ -98,4 +101,11 @@ p{
 }
 #border{
     border: solid 3px gray;
+}
+.primero{
+    background-color: lightsteelblue;
+    color: darkslategray;
+}
+#class{
+    color:whitesmoke;
 }
